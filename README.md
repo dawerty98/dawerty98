@@ -6,6 +6,8 @@
 - 💞️ I’m looking to collaborate on nothing particular; i can help, but mostly works alone
 - 📫 How to reach me is well... wherever i can be found with nick (dawerty98) (Discord, etc and of course games)
 
+PS: github bug: profile picture has a size of 260 px x 260 px, but they scale it up. Exceeding size should be banned...
+
 <!---
 dawerty98/dawerty98 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
